@@ -45,8 +45,11 @@ echo 'Hello, NIX Education';
     <section class="intro">
         <h1 class="content">
             <p>
-                The main content. dvsjvnjkanva
+                The main content.
             </p>
+            <table>
+
+            </table>
         </h1>
     </section>
 </main>
